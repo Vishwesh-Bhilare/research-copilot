@@ -1,0 +1,7 @@
+pyproject.toml
+./src/cli.py
+./src/config.py
+research_copilot.egg-info/PKG-INFO
+research_copilot.egg-info/SOURCES.txt
+research_copilot.egg-info/dependency_links.txt
+research_copilot.egg-info/top_level.txt
